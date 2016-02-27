@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='ASCII'?>
+<Config>
+  <date>2015.10.21</date>
+  <Port>COM7</Port>
+  <MAX_Calibration>0.0</MAX_Calibration>
+  <MAX_Setpoint>37.0</MAX_Setpoint>
+  <MAX_Kc>2.01</MAX_Kc>
+  <MAX_Ti>0.03</MAX_Ti>
+  <MAX_Td>0.01</MAX_Td>
+</Config>
